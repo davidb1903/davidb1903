@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbl1903&label=Profile%20views&color=0e75b6&style=flat" alt="davidbl1903" /> </p>
 
-<p align="left"> <a href="https://twitter.com/davidbl1903" target="blank"><img src="https://img.shields.io/twitter/follow/davidbl1903?logo=twitter&style=for-the-badge" alt="davidbl1903" /></a> </p>
 
 - 🔭 I’m currently working on **Autonomous Robotics**
 
