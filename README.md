@@ -1,6 +1,6 @@
 # davidbl1903
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A mechatronic engineer who creates robots applying the the most advanced in technology</h3>
+<h3 align="center">A mechatronic engineer who creates robots applying the most advanced in technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbl1903&label=Profile%20views&color=0e75b6&style=flat" alt="davidbl1903" /> </p>
 
